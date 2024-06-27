@@ -1,5 +1,7 @@
 # Email Bomber
 
+### Пиздец тут говнокод(
+
 Spam emails to a single email address
 
 <b> Use this tool for educational purpose only !! </b>
